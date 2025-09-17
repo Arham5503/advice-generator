@@ -1,6 +1,6 @@
 {
-  "name": "advice-generator-app-main",
-  "homepage": "https://arham5503.github.io/advice-generator/",
+  "name": "advice-generator",
+  "homepage": "https://arham5503.github.io/advice-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",

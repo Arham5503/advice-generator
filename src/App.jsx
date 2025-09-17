@@ -37,14 +37,14 @@ function App() {
             <img src={dice} alt="" />
           </button>
         </div>
-        <div>
-          <p>
-            Challenge by{" "}
-            <a href="https://www.frontendmentor.io/home">Frontend Mentor</a>.
-            Coded by Arham Ali.
-          </p>
-        </div>
       </main>
+      <div>
+        <p>
+          Challenge by{" "}
+          <a href="https://www.frontendmentor.io/home">Frontend Mentor</a>.
+          Coded by Arham Ali.
+        </p>
+      </div>
     </>
   );
 }
